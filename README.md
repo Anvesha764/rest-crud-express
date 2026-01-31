@@ -12,7 +12,7 @@ This project was created to practice backend fundamentals and RESTful routing.
 - Method-Override
 - HTML, CSS, JavaScript
 
----
+
 ## Project Structure
 REST_CLASS/
 ├── public/
@@ -29,7 +29,7 @@ REST_CLASS/
 ├── package.json
 ├── package-lock.json
 └── .gitignore
----
+
 
 ## Author
 
