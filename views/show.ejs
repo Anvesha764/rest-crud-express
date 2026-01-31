@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Post Details</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <div class="container">
+    <h2>Post Details</h2>
+
+    <div class="post">
+      <h3 class="user">@<%= post.username %></h3>
+      <p class="content"><%= post.content %></p>
+
+      <a class="btn btn-secondary" href="/posts">← Back</a>
+    </div>
+  </div>
+</body>
+</html>
