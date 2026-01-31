@@ -1,17 +1,17 @@
 RESTful CRUD App
 
-A simple RESTful CRUD (Create, Read, Update, Delete) web application built using Node.js, Express, and EJS.
+Simple CRUD application built using Express and EJS.
 This project is for practicing RESTful routing and backend fundamentals.
 
 Tech Stack
-- Node.js
-- Express.js
-- EJS
-- UUID
-- Method-Override
-- HTML
-- CSS
-- JavaScript
+Node.js
+Express.js
+EJS
+UUID
+Method-Override
+HTML
+CSS
+JavaScript
 
 Project Structure
 
@@ -36,8 +36,5 @@ Author
 Anvesha
 GitHub: https://github.com/Anvesha764
 
-
-Anvesha  
-GitHub: https://github.com/Anvesha764
 
 
